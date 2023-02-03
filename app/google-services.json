@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017087849748",
+    "firebase_url": "https://fir-m7-bruno-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-m7-bruno",
+    "storage_bucket": "fir-m7-bruno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017087849748:android:f6a0a8aaddd3a2e7053e01",
+        "android_client_info": {
+          "package_name": "com.example.m7_firebase_bruno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017087849748-c9erk7ighasa7otmrmvrk7j50jc7et4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrniX5dF_bi3WVLhx7S5r_XPiQLolnobQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017087849748-c9erk7ighasa7otmrmvrk7j50jc7et4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
